@@ -21,4 +21,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-! [ReadMe Card] (https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mishaa443=https://github.com/Mishaa443/my)
